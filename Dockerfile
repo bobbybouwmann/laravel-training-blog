@@ -11,6 +11,7 @@ RUN apk -U --no-cache add \
     php7-curl \
     php7-ctype \
     php7-dom \
+    php7-fileinfo \
     php7-json \
     php7-mbstring \
     php7-pdo_mysql \
