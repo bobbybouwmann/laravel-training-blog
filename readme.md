@@ -64,6 +64,8 @@ The sidebar should contain the 5 posts with the most comments.
 
 > Documentation: https://laravel.com/docs/5.7/blade
 
+> Documentation: https://laravel.com/docs/5.7/blade#service-injection
+
 ### Admin panel for posts
 
 We've been using seeders so far to create content and comments. Let's now change that by creating an admin functionality where only a user with admin set to true in the users table is manager to create, edit, delete posts.
